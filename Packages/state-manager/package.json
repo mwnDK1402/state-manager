@@ -11,5 +11,9 @@
     },
     "devDependencies": {
         "standard-version": "^8.0.0"
+    },
+    "scripts": {
+        "release": "standard-version",
+        "publish": "git push --follow-tags origin master"
     }
 }
