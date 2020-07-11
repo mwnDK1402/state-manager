@@ -1,0 +1,15 @@
+{
+    "name": "com.wagner.state-manager",
+    "version": "0.1.0",
+    "displayName": "State Manager",
+    "description": "Simple Finite State Machine",
+    "unity": "2017.4",
+    "author": {
+        "name": "Wagner",
+        "email": "mathiasvalentinwagner@gmail.com",
+        "url": "https://github.com/mwnDK1402"
+    },
+    "devDependencies": {
+        "standard-version": "^8.0.0"
+    }
+}
