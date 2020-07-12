@@ -2,7 +2,7 @@
     "name": "Unity.state-manager.Tests",
     "rootNamespace": "",
     "references": [
-        "Unity.state-manager.Runtime",
+        "Unity.state-manager",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],
