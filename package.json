@@ -1,16 +1,16 @@
 {
-  "name": "com.wagner.pkg-template",
-  "version": "0.1.2",
-  "displayName": "Package Template",
-  "description": "This is a template package",
-  "unity": "2019.4",
-  "unityRelease": "3f1",
+  "name": "com.wagner.state-manager",
+  "version": "0.1.0",
+  "displayName": "State Manager",
+  "description": "Simple Finite State Machine",
+  "unity": "2017.4",
+  "unityRelease": "40f1",
   "author": {
     "name": "Wagner",
     "email": "mathiasvalentinwagner@gmail.com",
     "url": "https://github.com/mwnDK1402"
   },
-  "type": "template",
+  "type": "module",
   "devDependencies": {
     "standard-version": "^8.0.0"
   },
