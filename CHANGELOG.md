@@ -13,7 +13,3 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * broken reference to Unity.state-manager assembly ([73c5c00](https://github.com/mwnDK1402/pkg-dev/commit/73c5c004f9e867cd15948fbef62aa7239f4427f2))
-
-### [0.1.2](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.1...v0.1.2) (2020-07-12)
-
-### 0.1.1 (2020-07-12)
