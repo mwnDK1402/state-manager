@@ -10,7 +10,7 @@
     "email": "mathiasvalentinwagner@gmail.com",
     "url": "https://github.com/mwnDK1402"
   },
-  "type": "module",
+  "type": "library",
   "devDependencies": {
     "standard-version": "^8.0.0"
   },
