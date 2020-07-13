@@ -2,7 +2,7 @@
 using StateManager;
 using Assert = UnityEngine.Assertions.Assert;
 
-namespace Tests.Editor
+namespace Tests.Runtime
 {
     public class TestStateManagerTests
     {
